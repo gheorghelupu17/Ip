@@ -1,0 +1,17 @@
+“As a Medic, I want to generate automatic treatment for a pacient so that I can save time.”
+“As a Medic, I want the option to cancel the treatment forcasted for a pacient so that I can  avoid false negatives and false positives.”
+“As a Medic, I want to have multiple diagnostics so that I can have multiple choices.”
+“As a Medic, I want to be able to get the diagnostic for multiple patients at the same time so that I can save time.”
+“As a Medic, I want to run the algorithm multiple times for the same patient so that I can have a better prediction.”
+“As a Data Scientist, I want to have access to statistics so that I can use them in future studies.”
+“As a Data Scientist and a Medic, I want to get a prediction with a restricted search domain so that I can get the predictions faster. ”
+“As a Medic and a Data Scientist, I want to give the algorithm my assessment on the pacient so that I can get a better prediction.”
+“As a Data Scientist, I want to be able to add training data separated from the real testing data so that I can clearly calculate the prediction’s accuracy in a real scenario.”
+
+
+Sprint 1
+
+Each member of the team will start to learn prediction algorithm and learn to apply them on testing data from different sources and interpret the results.
+
+Lab 5
+Gheorghe Lupu, Gabriel Agache, Matei Dascalu, Daniel Ruse
